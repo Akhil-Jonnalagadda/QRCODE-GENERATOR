@@ -2,6 +2,8 @@
 
 Create and download QR codes effortlessly with this sleek and simple web application.
 
+WEBSITE LINK: https://akhil-jonnalagadda.github.io/QRCODE-GENERATOR/
+
 ## ✨ Features ✨
 
 *   **Instant QR Code Generation:**  Type or paste your text/URL and watch the QR code appear in real-time.
